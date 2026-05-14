@@ -199,7 +199,7 @@ const beliefImages = [
   {
     alt: "People sharing fresh food at a table",
     image:
-      "https://images.unsplash.com/photo-1529517986296-847580a14c87?auto=format&fit=crop&w=900&q=80",
+      "https://images.unsplash.com/photo-1576867757603-05b134ebc379?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVvcGxlJTIwc2hhcmluZyUyMGZyZXNoJTIwZm9vZCUyMGF0JTIwYSUyMHRhYmxlfGVufDB8fDB8fHww",
   },
   {
     alt: "Creamy dessert served beautifully",
